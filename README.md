@@ -43,8 +43,8 @@ This project is divided into four main analytical pillars:
     ```bash
     pip install pandas numpy matplotlib seaborn mlxtend wordcloud
     ```
-3.  Open `E_commerce_Analysis.ipynb` in Jupyter Notebook or Google Colab.
+3.  Open `E_commerce_Analysis.ipynb` in Google Colab.
 
 ---
 **Author:** Ahmed Lotfy
-*Aspiring Data Analyst | [LinkedIn Profile](YOUR_LINKEDIN_URL_HERE)*
+*Aspiring Data Analyst | [LinkedIn Profile](https://www.linkedin.com/in/ahmedmlotfy0)*
